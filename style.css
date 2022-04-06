@@ -66,7 +66,7 @@ h6 {
 /*Hero Area*/
 
 .bg-1 {
-	background-image: url(./assets/img/hero-bg.jpg)
+	background-image: url(img/hero-bg.jpg)
 }
 
 .hero-bg {
@@ -453,35 +453,35 @@ p.edu-summury {
 /*Portfolio area*/
 
 .protfolio-bg-1 {
-	background-image: url(./assets/img/portfolio-bg-1.jpg);
+	background-image: url(img/portfolio-bg-1.jpg);
 }
 
 .protfolio-bg-2 {
-	background-image: url(./assets/img/portfolio-bg-2.jpg);
+	background-image: url(img/portfolio-bg-2.jpg);
 }
 
 .protfolio-bg-3 {
-	background-image: url(./assets/img/portfolio-bg-3.jpg);
+	background-image: url(img/portfolio-bg-3.jpg);
 }
 
 .protfolio-bg-4 {
-	background-image: url(./assets/img/portfolio-bg-4.jpg);
+	background-image: url(img/portfolio-bg-4.jpg);
 }
 
 .protfolio-bg-5 {
-	background-image: url(./assets/img/portfolio-bg-5.jpg);
+	background-image: url(img/portfolio-bg-5.jpg);
 }
 
 .protfolio-bg-6 {
-	background-image: url(./assets/img/portfolio-bg-6.jpg);
+	background-image: url(img/portfolio-bg-6.jpg);
 }
 
 .protfolio-bg-7 {
-	background-image: url(./assets/img/portfolio-bg-7.jpg);
+	background-image: url(img/portfolio-bg-7.jpg);
 }
 
 .protfolio-bg-8 {
-	background-image: url(./assets/img/portfolio-bg-8.jpg);
+	background-image: url(img/portfolio-bg-8.jpg);
 }
 
 .portfolio-container {
